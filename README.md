@@ -34,6 +34,11 @@ pip install opencv-python numpy matplotlib
 
 4. Press 'Enter' or 'Esc' to exit the video stream.
 
+## Snapshot
+
+![image](https://github.com/Alok-2002/Vehicle_Detector_And_Counter/assets/93814546/8df06bc0-11de-40ee-9400-91a042c0ed9a)
+
+
 ## Configuration
 You can modify the following parameters in the script according to your requirements:
 
