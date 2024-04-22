@@ -21,15 +21,15 @@ pip install opencv-python numpy matplotlib
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alok-2002/vehicle-counting.git
-   cd vehicle-counting
+   git clone https://github.com/Alok-2002/Vehicle_Detector_And_Counter.git
+   cd Vehicle_Detector_And_Counter
    ```
 
 2. Replace '1video.mp4' with the path to your video file in the script.
 
 3. Run the script:
    ```bash
-   python vehicle_count.py
+   python main.py
    ```
 
 4. Press 'Enter' or 'Esc' to exit the video stream.
